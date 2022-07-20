@@ -26,12 +26,8 @@ Realizar um projeto em React do [Manual do Dev](https://github.com/manualdodev/p
 ## Demonstração
 
 <div align="center">
-    <h3>Layout desktok</h3>
-    <img src="/public/images/pokedex.png" alt="Layout Desktop" />
-</div>
-<div align="center">
     <h3>Animação</h3>
-    <img src="/public/images/pokedex.git" alt="Animação" />
+    <img src="/public/images/pokedex.gif" alt="Animação" />
 </div>
 
 ## Contato
